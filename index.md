@@ -15,6 +15,11 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+[Software design and engineering Artifact](https://github.com/William-Haskins/William-Haskins/blob/main/(SOFTWARE%20DESIGN%20AND%20ENGINEERING)CS_410_7_2.cpp)
+[Updated Artifact](https://github.com/William-Haskins/William-Haskins/blob/main/(UPDATED%20SOFTWARE%20DESIGN%20AND%20ENGINEERING)%20CS_410.cpp)
+
+
+
 
 - Bulleted
 - List
@@ -26,8 +31,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[Software Design and Engineering Artifact](https://github.com/William-Haskins/William-Haskins/blob/main/(SOFTWARE%20DESIGN%20AND%20ENGINEERING)CS_410_7_2.cpp)
-[Updated Artifact](https://github.com/William-Haskins/William-Haskins/blob/main/(UPDATED%20SOFTWARE%20DESIGN%20AND%20ENGINEERING)%20CS_410.cpp)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
