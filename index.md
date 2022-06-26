@@ -1,9 +1,6 @@
 ## Welcome to my page!
 Here I have provided 3 college projects, the origonals of the following artifacts. Each has been updated to better display my skills.
 
-```markdown
-Syntax highlighted code block
-
 ### Software design and engineering artifact
 [Origonal Artifact](https://github.com/William-Haskins/William-Haskins/blob/main/(SOFTWARE%20DESIGN%20AND%20ENGINEERING)CS_410_7_2.cpp)
 [Updated Artifact](https://github.com/William-Haskins/William-Haskins/blob/main/(UPDATED%20SOFTWARE%20DESIGN%20AND%20ENGINEERING)%20CS_410.cpp)
@@ -25,4 +22,3 @@ Syntax highlighted code block
 
 #### As this piece was purpose built, there was not too much I could do to enhance it. The largest change was to the input scanner, which before did not close. This could lead to a performance issue in a larger program so I did my best to tackle it by creating a public scanner in the main file, which other files could borrow. This scanner could also be closed in the main function once the user wished to exit the program, removing the risk of a memory leak. 
 
-```
