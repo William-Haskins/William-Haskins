@@ -1,7 +1,7 @@
 ## Welcome to my page!
 Here I have provided 3 college projects, the origonals of the following artifacts. Each has been updated to better display my skills.
 
-### Software design and engineering artifact
+### Software design and engineering artifacts
 [Origonal Artifact](https://github.com/William-Haskins/William-Haskins/blob/main/(SOFTWARE%20DESIGN%20AND%20ENGINEERING)CS_410_7_2.cpp)
 
 [Updated Artifact](https://github.com/William-Haskins/William-Haskins/blob/main/(UPDATED%20SOFTWARE%20DESIGN%20AND%20ENGINEERING)%20CS_410.cpp)
@@ -9,7 +9,7 @@ Here I have provided 3 college projects, the origonals of the following artifact
 
 ##### During my enhancement of the project, I focused on the readability of the software, updating poorly named variables such as “num1” to something more descriptive. My goal in any project I work on is to make it easy to follow with as few comments as possible, using clean white spacing and descriptive variables. 
 
-### Databases artifact
+### Databases artifacts
 [Origonal Artifact](https://github.com/William-Haskins/William-Haskins/blob/main/(DATABASES)%20mongocrud.py)
 
 [Updated Artifact](https://github.com/William-Haskins/William-Haskins/blob/main/(UPDATED%20DATABASES)%20mongocrud.py)
@@ -17,7 +17,7 @@ Here I have provided 3 college projects, the origonals of the following artifact
 
 ##### While I do not have access to the mongo database anymore, there were still enhancements that could be made to the python software. I started by renaming the read commands to be more self-descriptive, so the CRUD commands are clearer. Next, I exchanged all the symbolics specific to the database with variables, so that this middleware code could be used with any mongo database so long as the user knows what the database is they wish to access. 
 
-### Algorithms and data structures artifact
+### Algorithms and data structures artifacts
 [Origonal Artifact](https://github.com/William-Haskins/William-Haskins/tree/main/(ALGORITHMS%20AND%20DATA%20STRUCTURES))
 
 [Updated Artifact](https://github.com/William-Haskins/William-Haskins/tree/main/(UPDATED%20ALGORITHMS%20AND%20DATA%20STRUCTURES))
