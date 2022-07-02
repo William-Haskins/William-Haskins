@@ -1,5 +1,5 @@
 ## Welcome to my page!
-Here will I have 3 college projects, the origonals of the following artifacts and an updated version to better display my skills. 
+Here I will have 3 projects, the origonals of the following artifacts and their updated counterparts to best display the skills I've accquired while pursuing my degree. 
 
 ### Software design and engineering artifacts
 WIP
